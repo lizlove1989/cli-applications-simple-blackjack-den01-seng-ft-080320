@@ -41,6 +41,7 @@ def invalid_command(card_total)
      card_total += deal_card
    else user_input = 's'
      card_total
+   else invalid_command
 end
 
 #####################################################

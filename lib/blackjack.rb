@@ -36,7 +36,8 @@ end
 
 def invalid_command(current_total)
   prompt_user
-  user_input = 
+  user_input = get_user_input
+  
 end
 
 #####################################################

@@ -40,7 +40,7 @@ def invalid_command(card_total)
   if user_input = 'h'
      card_total += deal_card
    else user_input = 's'
-     
+     card_total
 end
 
 #####################################################

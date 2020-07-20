@@ -32,6 +32,7 @@ end
 
 def invalid_command
   puts "Please enter a valid command"
+  promt_user
 end
 
 def hit?(card_total)

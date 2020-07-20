@@ -37,7 +37,8 @@ end
 def invalid_command(current_total)
   prompt_user
   user_input = get_user_input
-  
+  if user_input = 'h'
+    deal_card 
 end
 
 #####################################################

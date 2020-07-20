@@ -34,8 +34,8 @@ def hit?
   # code hit? here
 end
 
-def invalid_command
-  # code invalid_command here
+def invalid_command(current_total)
+  prompt_user(get_user_input)
 end
 
 #####################################################

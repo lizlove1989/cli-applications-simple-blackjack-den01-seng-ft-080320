@@ -35,7 +35,8 @@ def hit?
 end
 
 def invalid_command(current_total)
-  prompt_user(get_user_input)
+  prompt_user
+  user_input = 
 end
 
 #####################################################
